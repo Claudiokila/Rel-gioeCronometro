@@ -1,0 +1,31 @@
+body{
+    background-color: #022A44;
+}
+div{
+    font-size: 50px;
+    margin: 5px;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #fff;
+
+}
+
+main{
+    width: 100%;
+    height: 30vh;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+span{
+    font-size: 50px;
+    margin: 5px;
+    padding: 10px;
+    border-radius: 5px;
+}
+#horas, #minutos, #segundos{
+    background-color: #fff;
+}
+#milesimo, #seg, #minuto{
+    background-color: #fff;
+}
